@@ -1,26 +1,32 @@
-name: OTTR Template Website
+name: my-website
 output_dir: '.'
 navbar:
-  title: OTTR Web
+  title: Elizabeth M. Humphries, PhD
   left:
   - text: Home
     href: index.html
-    icon: fa-home
-  - text: Setup
-    href: setup.html
-  - text: Hosting
-    href: hosting.html
-  - text: Editing
-    href: editing.html
-  - text: Style
-    href: style.html
-  - text: Git Actions
-    href: git_actions.html
-  - text: Docker
-    href: docker.html
+  - text: Education
+    href: training.html
+  - text: Publications
+    href: publications.html
+  - text: Teaching
+    href: teaching.html
+  - text: Service
+    href: service.html
   - text: Contact
     href: contact.html
     icon: fa-envelope
+  # right:
+  # - icon: fa-envelope fa-lg
+  #   href: contact.html
+  # - icon: fa-github fa-lg
+  #   href: http://github.com/ehumph
+  # - icon: fa-linkedin fa-lg
+  #   href: https://www.linkedin.com/in/elizabeth-humphries-61202a103/
+  # - icon: fa-google fa-lg
+  #   href: https://scholar.google.com/citations?user=crSvXGoAAAAJ&hl=en
+  # - icon: fab fa-twitter fa-lg
+  #   href: https://twitter.com/liz_marella
 
 
 output:
@@ -28,7 +34,3 @@ output:
     theme: cosmo
     lib_dir: site_libs
     self_contained: no
-    highlight: textmate
-    css: styles.css
-    includes:
-       in_header: resources/header.html

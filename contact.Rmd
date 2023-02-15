@@ -1,11 +1,7 @@
----
-title: "**Contact Us**"
-output:
-  html_document
----
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 
-
-
-If you have questions please contact:
-
-* Carrie Wright (cwrigh60@jhu.edu)
+You can get in touch with me by emailing me at: [ehumphri@fredhutch.org](mailto:ehumphri@fredhutch.org)
