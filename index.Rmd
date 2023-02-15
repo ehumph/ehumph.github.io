@@ -1,34 +1,33 @@
----
-title: "**Website Name**"
-output:
-  html_document
----
+###
+###
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 
-<div class = "banner_color">
-Banner text!  
-</div>
+## About {.tabset .tabset-fade}
+&nbsp;
 
-### **About**
+Elizabeth Humphries is a postdoctoral researcher at the Fred Hutchinson Cancer Research Center. She focuses on creating data science and bioinformatics training activities for the AnVIL Cloud Computing Platform.
 
-This website was created with the OTTR_Template_Website template. This enables simpler creation of websites that have automated checks for broken URLs and spelling errors, as well as automated rendering of all html files. No need to worry about git conflicts for html files!
-
-Here is how you can include images in your website pages (this one is saved in `resources/images` to keep things tidy:
-
-```{r, fig.align='center', fig.alt= "Example image", echo = FALSE, out.width="30%"}
-knitr::include_graphics("resources/images/example_image.png")
+```{r, echo = FALSE, fig.align='center', out.width= "20%"}
+knitr::include_graphics("images//ehumphries.jfif")
 ```
 
- 
- 
-We will go through the following:
-
-1. How to set up your repository to enable the GitHub actions of the template. (Setup tab)
-2. How to host your website using GitHub (Hosting tab)
-3. How to modify your website structure (Structure tab)
-4. How to change your website style (Style tab)
-5. More information about GitHub Actions (Git Actions tab)
-
-Click on each tab to learn more.
+You can find Elizabeth on GitHub at [ehumph](https://ehumph/).
 
 
 
+&nbsp;<center>
+![](http://ghchart.rshah.org/DA2536/carriewright11.svg){width=500px, }
+</center>
+
+&nbsp;
+&nbsp;
+
+
+<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=0e1633&w=300&t=tt&d=mMJdncczrKczeO0j6-ofVvIOdAmrUwpy0FcAIJeCdV0&co=0b4975&cmo=3acc3a&cmn=ff5353&ct=cdd4d9"></script>
+
+
+<!-- <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=0e1633&w=300&t=n&d=mMJdncczrKczeO0j6-ofVvIOdAmrUwpy0FcAIJeCdV0&co=0b4975&ct=cdd4d9&cmo=3acc3a&cmn=ff5353'></script> -->

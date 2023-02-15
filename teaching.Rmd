@@ -1,0 +1,56 @@
+###
+###
+&nbsp;
+
+## Teaching {.tabset .tabset-fade}
+&nbsp;
+
+
+### Instruction
+
+**2017-2022** Adjunct Instructor (online course: Molecular Phylogenetics Techniques), [Johns Hopkins Advanced Academic Programs](https://advanced.jhu.edu/)
+
+**Fall 2018, 2019** Guest lecturer, [University of Maryland Baltimore GPILS core course](https://lifesciences.umaryland.edu/) (Professor: Dr. Michelle Giglio)
+
+**2012-2014** Adjunct Professor (course: Biology I), [Reading Area Community College](https://www.racc.edu/)
+
+**2012** Adjunct Professor (courses: Biology for Non-Majors, Human Health and Disease), [Harford Community College](https://www.harford.edu/)
+
+**2010** Intructor (course: Genetics), [UAF Alaska Summer Research Academy](https://www.uaf.edu/asra/)
+
+**2009) Intructor (course: Introduction to Molecular Biology), [Rural Alaska Honors Institute](https://www.uaf.edu/rahi/)
+
+**2001-2004** Tutor, [UMBC Chemistry Tutorial Center](https://chemistry.umbc.edu/overview/chemistry-tutorial-center/), Student Director Fall 2004 
+
+**Summer 2002, 2003** Instructor, UMBC Summer Chemistry Workshop, [Meyerhoff Program](https://meyerhoff.umbc.edu/)
+
+
+### Courses and Activities Developed
+
+**2022** [GDSCN: SARS Phylogeny on AnVIL](LINK), a module using RStudio for college undergraduates
+
+**2022** [Molecular Phylogentic Techniques](LINK), a course on basic phylogenetics analyses for MD students
+
+**2022** [Statistics for Genomics: PCA](LINK), a module introducing MS graduate students to common statistical analyses
+
+**2022** [Statistics for Genomics:scRNA-seq], a module introducing MS graduate students to common statistical analyses
+
+**2020** SIR Models and Outbreaks, an activity for late elementary students on modeling disease outbreaks in a population
+
+**2010** Jurassic Genetics, an activity for the Alaska Summer Research Academy using the concept of cloning extinct organisms to introduce students to the basic tenets of genetics and molecular biology to middle and high school students
+
+**2009** Introduction to Molecular Biology, a course for the Rural Alaska Honors Institute introducing advanced high school students to both basic and advanced topics in genetics, molecular biology and evolution, as well as train students to do molecular biology and genetics research
+
+**2009** The Poisoners: A Molecular Murder Mystery, an activity to help high school students students review different types of molecular methods and reinforce what information can be gained from using each method as they attempt to solve the murder of Dr. Splicer 
+
+
+### Mentorship
+
+**2020-2021** University of Maryland Baltimore, Shelvonne Burton (undergraduate student),  Meghann Ryan (graduate rotation student), and Jayme Choe (MS student)
+
+**2007-2009** University of Alaska Museum Department of Ornithology, Tim Sanner (HS senior) and Cyndie Beale (HS teacher)
+
+
+
+
+
